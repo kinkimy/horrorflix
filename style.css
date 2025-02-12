@@ -27,7 +27,7 @@ header {
 }
 
 .video {
-    border: solid 2px lime;
+    border: solid 2px rgb(240, 251, 240);
 }
 
 .chamada-texto {
@@ -43,7 +43,7 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: lime;
+    color: #660000;
     /* Define a cor do texto */
 }
 
