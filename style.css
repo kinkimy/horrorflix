@@ -1,5 +1,5 @@
 body {
-    color: #660000;
+    color: #c70000;
     background: black;
     margin: 0px;
     font-family: "Nosifer", serif;
@@ -7,10 +7,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(255, 255, 255);
     padding: 20px;
     font-size: 32px;
-    color: lime;
+    color: rgb(255, 255, 255);
 }
 
 .background {
@@ -105,11 +105,11 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid lime;
+    border: 3px solid rgb(255, 255, 255);
 }
 
 .categoria h2 {
-    color: lime;
+    color: rgb(255, 255, 255);
 }
 
 .copyright {
