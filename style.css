@@ -2,8 +2,7 @@ body {
     color: #c70000;
     background: black;
     margin: 0px;
-    font-family:  "Rubik Distressed", serif;
-}
+    font-family: "Rubik Wet Paint", system-ui;
 
 header {
     border-bottom: solid 2px rgb(255, 255, 255);
