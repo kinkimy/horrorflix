@@ -103,11 +103,11 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(248, 2, 2);
+    border: 3px solid rgb(255, 252, 252);
 }
 
 .categoria h2 {
-    color: rgb(255, 255, 255);
+    color: rgb(253, 2, 2);
 }
 
 .copyright {
